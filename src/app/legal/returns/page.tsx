@@ -2,8 +2,8 @@ import React from 'react';
 import { theme } from '@/lib/theme';
 
 export const metadata = {
-  title: 'Returns and Refunds Policy | Merugo',
-  description: 'Our returns and refunds policy for Merugo products.',
+  title: 'Returns and Refunds Policy | Velocart',
+  description: 'Our returns and refunds policy for Velocart products.',
 };
 
 export default function ReturnsPolicy() {
@@ -132,7 +132,7 @@ export default function ReturnsPolicy() {
               For any questions about our returns policy, please contact us at:
             </p>
             <div className="bg-white border rounded-lg p-4">
-              <p className="mb-2">Email: returns@merugo.com</p>
+              <p className="mb-2">Email: returns@velocart.com</p>
               <p className="mb-2">Phone: +1 (555) 123-4567</p>
               <p>Hours: Monday - Friday, 9:00 AM - 5:00 PM EST</p>
             </div>

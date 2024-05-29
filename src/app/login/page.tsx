@@ -227,7 +227,7 @@ export default function LoginPage() {
             <div className="max-w-md text-center">
               <ShoppingBag className="w-10 h-10 mb-3 animate-bounce mx-auto" />
               <h1 className="text-3xl font-bold mb-3 bg-clip-text text-transparent bg-gradient-to-r from-white to-blue-100">
-                Welcome to Merugo
+                Welcome to Velocart
               </h1>
               <p className="text-base text-white/90">
                 Fresh groceries delivered to your doorstep in minutes

@@ -2,7 +2,7 @@ import React from 'react';
 import { theme, withOpacity } from '@/lib/theme';
 
 export const metadata = {
-      title: 'Privacy Policy | Merugo',
+      title: 'Privacy Policy | Velocart',
   description: 'Our commitment to protecting your privacy and personal information.',
 };
 
@@ -117,7 +117,7 @@ export default function PrivacyPolicy() {
             </p>
             <div className="bg-white rounded-lg p-4 border" style={{ borderColor: withOpacity(theme.primary, 0.1) }}>
               <p className="mb-2">
-                Email: privacy@merugo.com
+                Email: privacy@velocart.com
               </p>
               <p className="mb-2">
                 Phone: +1 (555) 123-4567

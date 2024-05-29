@@ -52,8 +52,8 @@ export async function POST(request: Request) {
       key: process.env.RAZORPAY_KEY_ID,
       amount: order.amount,
       currency: order.currency,
-      name: "Merugo Store",
-      description: "Purchase from Merugo Store",
+      name: "Velocart Store",
+      description: "Purchase from Velocart Store",
       prefillData: {
         name: user.name || "",
         email: user.email || "",

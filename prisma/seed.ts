@@ -5,7 +5,7 @@ const prisma = new PrismaClient();
 
 async function main() {
   // Create initial admin user
-  const email = process.env.INITIAL_ADMIN_EMAIL || 'admin@merugo.com';
+  const email = process.env.INITIAL_ADMIN_EMAIL || 'admin@velocart.com';
   const password = process.env.INITIAL_ADMIN_PASSWORD || 'admin123';
 
   // Check if admin already exists
@@ -32,7 +32,7 @@ async function main() {
   }
 
   // Create demo user
-  const demoEmail = 'demo@merugo.com';
+  const demoEmail = 'demo@velocart.com';
   const demoPassword = '123456';
 
   // Check if demo user already exists

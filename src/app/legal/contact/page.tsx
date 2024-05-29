@@ -2,8 +2,8 @@ import React from 'react';
 import { theme } from '@/lib/theme';
 
 export const metadata = {
-  title: 'Contact Us | Merugo',
-  description: 'Get in touch with Merugo customer service.',
+  title: 'Contact Us | Velocart',
+  description: 'Get in touch with Velocart customer service.',
 };
 
 export default function ContactPage() {
@@ -26,7 +26,7 @@ export default function ContactPage() {
               Customer Service
             </h2>
             <div className="bg-white border rounded-lg p-4">
-              <p className="mb-2">Email: support@merugo.com</p>
+              <p className="mb-2">Email: support@velocart.com</p>
               <p className="mb-2">Phone: +1 (555) 123-4567</p>
               <p>Hours: Monday - Friday, 9:00 AM - 5:00 PM EST</p>
             </div>
@@ -40,7 +40,7 @@ export default function ContactPage() {
               Returns & Refunds
             </h2>
             <div className="bg-white border rounded-lg p-4">
-              <p className="mb-2">Email: returns@merugo.com</p>
+              <p className="mb-2">Email: returns@velocart.com</p>
               <p className="mb-2">Phone: +1 (555) 123-4568</p>
               <p>Hours: Monday - Friday, 9:00 AM - 5:00 PM EST</p>
             </div>
@@ -54,7 +54,7 @@ export default function ContactPage() {
               Business Inquiries
             </h2>
             <div className="bg-white border rounded-lg p-4">
-              <p className="mb-2">Email: business@merugo.com</p>
+              <p className="mb-2">Email: business@velocart.com</p>
               <p className="mb-2">Phone: +1 (555) 123-4569</p>
               <p>Hours: Monday - Friday, 9:00 AM - 5:00 PM EST</p>
             </div>
@@ -134,7 +134,7 @@ export default function ContactPage() {
               Office Location
             </h2>
             <div className="bg-white border rounded-lg p-4">
-              <p className="mb-2">Merugo Headquarters</p>
+              <p className="mb-2">Velocart Headquarters</p>
               <p className="mb-2">123 Business Street</p>
               <p className="mb-2">Suite 100</p>
               <p>New York, NY 10001</p>
