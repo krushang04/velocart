@@ -17,11 +17,11 @@ export async function ensureCloudinaryFolders(): Promise<boolean> {
 /**
  * Prepares the folder path for Cloudinary uploads
  * @param folder Base folder name (e.g., "products")
- * @returns Full folder path (e.g., "merugo/products")
+ * @returns Full folder path (e.g., "velocart/products")
  */
 export function getCloudinaryFolder(folder: string): string {
-  if (!folder) return 'merugo';
-  if (folder.startsWith('merugo/')) return folder;
-  if (folder === 'merugo') return folder;
-  return `merugo/${folder}`;
+  if (!folder) return 'velocart';
+  if (folder.startsWith('velocart/')) return folder;
+  if (folder === 'velocart') return folder;
+  return `velocart/${folder}`;
 } 

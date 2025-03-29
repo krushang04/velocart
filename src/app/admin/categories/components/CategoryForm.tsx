@@ -139,7 +139,7 @@ const CategoryForm = ({
               label="Category Image"
               multiple={false}
               maxFiles={1}
-              folder="merugo/categories"
+              folder="velocart/categories"
             />
           </div>
         </div>

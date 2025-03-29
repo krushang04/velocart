@@ -7,7 +7,7 @@ import { Providers } from "./providers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Merugo - Your Grocery Delivery App",
+  title: "Velocart - Your Grocery Delivery App",
   description: "Get your groceries delivered to your doorstep",
 };
 
@@ -19,7 +19,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <link rel="icon" type="image/svg+xml" href="/merugo-logo.svg" />
+        <link rel="icon" type="image/svg+xml" href="/velocart-logo.svg" />
       </head>
       <body className={inter.className} suppressHydrationWarning>
         <Providers>

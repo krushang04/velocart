@@ -2,8 +2,8 @@ import React from 'react';
 import { theme } from '@/lib/theme';
 
 export const metadata = {
-  title: 'Terms and Conditions | Merugo',
-  description: 'Terms and conditions for using Merugo services.',
+  title: 'Terms and Conditions | Velocart',
+  description: 'Terms and conditions for using Velocart services.',
 };
 
 export default function TermsAndConditions() {
@@ -26,7 +26,7 @@ export default function TermsAndConditions() {
               1. Acceptance of Terms
             </h2>
             <p className="mb-4">
-              By accessing and using Merugo, you agree to be bound by these Terms and Conditions. If you do not agree to these terms, please do not use our services.
+              By accessing and using Velocart, you agree to be bound by these Terms and Conditions. If you do not agree to these terms, please do not use our services.
             </p>
           </section>
 
@@ -101,7 +101,7 @@ export default function TermsAndConditions() {
               6. Intellectual Property
             </h2>
             <p className="mb-4">
-              All content on this website, including text, graphics, logos, and software, is the property of Merugo and is protected by intellectual property laws.
+              All content on this website, including text, graphics, logos, and software, is the property of Velocart and is protected by intellectual property laws.
             </p>
           </section>
 
@@ -113,7 +113,7 @@ export default function TermsAndConditions() {
               7. Limitation of Liability
             </h2>
             <p className="mb-4">
-              Merugo shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.
+              Velocart shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.
             </p>
           </section>
 
@@ -125,7 +125,7 @@ export default function TermsAndConditions() {
               8. Governing Law
             </h2>
             <p className="mb-4">
-              These terms shall be governed by and construed in accordance with the laws of the jurisdiction in which Merugo operates.
+              These terms shall be governed by and construed in accordance with the laws of the jurisdiction in which Velocart operates.
             </p>
           </section>
 
