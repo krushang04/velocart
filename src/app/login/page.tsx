@@ -270,8 +270,8 @@ export default function LoginPage() {
                 <ShoppingBag className="h-6 w-6 text-blue-600" />
               </div>
               <h2 className="text-2xl font-bold ">
-                <span className='text-blue-600'>Meru</span>
-                <span className='text-gray-900'>go</span>
+                <span className='text-blue-600'>Velo</span>
+                <span className='text-gray-900'>cart</span>
               </h2>
               <p className="mt-1 text-sm text-gray-600">
                 Sign in to continue your shopping journey

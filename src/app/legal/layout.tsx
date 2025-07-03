@@ -22,8 +22,8 @@ export default function LegalLayout({
                 className="flex items-center hover:opacity-90 transition-opacity"
               >
                 <span className="text-2xl font-bold">
-                  <span style={{ color: theme.primary }}>Meru</span>
-                  <span className="text-gray-900">go</span>
+                  <span style={{ color: theme.primary }}>Velo</span>
+                  <span className="text-gray-900">cart</span>
                 </span>
               </Link>
             </div>

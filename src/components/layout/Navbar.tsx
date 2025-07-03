@@ -89,8 +89,8 @@ export default function Navbar() {
               className="flex items-center cursor-pointer transition-transform hover:scale-105"
             >
               <span className="text-2xl font-bold" style={{ color: theme.dark }}>
-                <span style={{ color: theme.primary }}>Meru</span>
-                <span>go</span>
+                <span style={{ color: theme.primary }}>Velo</span>
+                <span>cart</span>
               </span>
             </button>
           </div>

@@ -27,8 +27,8 @@ export default function Footer() {
                 M
               </div> */}
               <h3 className="text-xl font-bold">
-                <span style={{ color: theme.primary }}>Meru</span>
-                <span style={{ color: theme.dark }}>go</span>
+                <span style={{ color: theme.primary }}>Velo</span>
+                <span style={{ color: theme.dark }}>cart</span>
               </h3>
             </div>
             <p style={{ color: theme.gray }}>
